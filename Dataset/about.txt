@@ -1,0 +1,7 @@
+KPMG Virtual Internship
+
+Required File: The dataset from Sprocket Central Pty Ltd
+This is the dataset to evaluate for data quality. Read the instructions on the title sheet. There are multiple sheets.
+
+Note: The data and information in this document is reflective of a hypothetical situation and client.
+This document is to be used for KPMG Virtual Internship purposes only.
